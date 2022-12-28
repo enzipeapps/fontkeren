@@ -1,12 +1,12 @@
 # fontkeren README
 
-Font keren is extension to change font style of the app 
+Font Keren
 
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+Ḋëṡċṛïḅë ṡṗëċïḟïċ ḟëäẗüṛëṡ öḟ ÿöüṛ ëẍẗëṅṡïöṅ ïṅċḷüḋïṅġ ṡċṛëëṅṡḧöẗṡ öḟ ÿöüṛ ëẍẗëṅṡïöṅ ïṅ äċẗïöṅ. Їṁäġë ṗäẗḧṡ äṛë ṛëḷäẗïṿë ẗö ẗḧïṡ ṚЁÄḊṀЁ ḟïḷë.
 
-For example if there is an image subfolder under your extension project workspace:
+Föṛ ëẍäṁṗḷë ïḟ ẗḧëṛë ïṡ äṅ ïṁäġë ṡüḅḟöḷḋëṛ üṅḋëṛ ÿöüṛ ëẍẗëṅṡïöṅ ṗṛöjëċẗ ẅöṛḳṡṗäċë:
 
 \!\[feature X\]\(images/feature-x.png\)
 
@@ -35,37 +35,28 @@ Calling out known issues can help limit users opening duplicate issues against y
 
 Users appreciate release notes as you update your extension.
 
-### 1.0.0
+### 0.0.1
 
-Initial release of ...
+Initial release of extension
 
-### 1.0.1
+### 0.0.2
 
-Fixed issue #.
+Bug fixes in icon and commands
 
-### 1.1.0
+### 0.0.3
+video addition
 
-Added features X, Y, and Z.
 
----
 
-## Following extension guidelines
-
-Ensure that you've read through the extensions guidelines and follow the best practices for creating your extension.
-
-* [Extension Guidelines](https://code.visualstudio.com/api/references/extension-guidelines)
-
+https://user-images.githubusercontent.com/71745182/209808608-dc852cd5-02d0-434c-a78e-5849f2334a15.mov
 ## Working with Markdown
 
 You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+* Select the text you want to replace with the fancy fonts
+* Toggle preview (`Ctrl+P` on macOS or `Cmd+P` on Windows and Linux).
+Toggle preview (`Shift+Ctrl+P` on macOS or `Shift+Cmd+P` on Windows and Linux).
+* Than in drop down select the design fonts 
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**

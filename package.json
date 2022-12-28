@@ -3,8 +3,13 @@
   "displayName": "Font Keren",
   "description": "Font keren is a extension that change text into fancy text",
   "publisher":"fontkeren",
-  "icon": "https://www.fontkeren.info/vsix/logo.png",
-  "version": "0.0.2",
+  "icon": "assets/image.png",
+  "homepage": "https://www.fontkeren.info",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/enzipeapps/fontkeren.git"
+  },
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.74.0"
   },
