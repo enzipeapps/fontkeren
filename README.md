@@ -35,6 +35,7 @@ Calling out known issues can help limit users opening duplicate issues against y
 
 Users appreciate release notes as you update your extension.
 
+
 ### 0.0.1
 
 Initial release of extension
@@ -47,8 +48,7 @@ Bug fixes in icon and commands
 video addition
 
 
-
-https://user-images.githubusercontent.com/71745182/209808608-dc852cd5-02d0-434c-a78e-5849f2334a15.mov
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/71745182/209811066-4935f147-21ae-4b7a-b50a-9f78664e07e2.gif)
 ## Working with Markdown
 
 You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
