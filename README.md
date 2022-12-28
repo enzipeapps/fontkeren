@@ -55,7 +55,8 @@ You can author your README using Visual Studio Code. Here are some useful editor
 
 * Select the text you want to replace with the fancy fonts
 * Toggle preview (`Ctrl+P` on macOS or `Cmd+P` on Windows and Linux).
-Toggle preview (`Shift+Ctrl+P` on macOS or `Shift+Cmd+P` on Windows and Linux).
+
+* Toggle preview (`Shift+Ctrl+P` on macOS or `Shift+Cmd+P` on Windows and Linux).
 * Than in drop down select the design fonts 
 
 
